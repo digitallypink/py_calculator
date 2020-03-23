@@ -1,18 +1,21 @@
-# Extend a simple calculator. Add and Subtract has been included for you.
-# Your mission. If you choose to accept it, is to add the following functionality to this program.
-#   1. Division
-#   2. Multiplication
+"""
+ Extend a simple calculator. Add and Subtract has been included for you.
+ Your mission. If you choose to accept it, is to add the following functionality to this program.
+   1. Division
+   2. Multiplication
 
-# To run this program (I am assuming you have python installed on a windows machine.)
-#   1. Open the command line terminal.
-#       The quickest way is to enter WINDOWS KEY + R.
-#       When the Run dialog is open type cmd then Enter.
-#   2. Navigate to your project folder in the terminal. `cd <Location of this file on your system>`
-#   3. type `python3 main.py` and Enter.
-# Ask all questions on digitallypink.slack.com
+ To run this program (I am assuming you have python installed on a windows machine.)
+   1. Open the command line terminal.
+       The quickest way is to enter WINDOWS KEY + R.
+       When the Run dialog is open type cmd then Enter.
+   2. Navigate to your project folder in the terminal. `cd <Location of this file on your system>`
+   3. type `python3 main.py` and Enter.
 
+ Ask all questions on digitallypink.slack.com
+"""
 
 # Math Operations
+
 # Add two numbers
 def add(x, y):
     return x + y
